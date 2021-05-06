@@ -37,18 +37,16 @@
 			<version>2.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.pcbsys.nirvana</groupId>
+			<groupId>com.softwareag.universal-messaging</groupId>
 			<artifactId>nJMS</artifactId>
 			<version>10.3.0</version>
-			<scope>system</scope>
-			<systemPath>C:/SoftwareAG103/common/lib/nJMS.jar</systemPath>
+			<scope>runtime</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.pcbsys.nirvana</groupId>
+			<groupId>com.softwareag.universal-messaging</groupId>
 			<artifactId>nClient</artifactId>
 			<version>10.3.0</version>
-			<scope>system</scope>
-			<systemPath>C:/SoftwareAG103/common/lib/nClient.jar</systemPath>
+			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
 
